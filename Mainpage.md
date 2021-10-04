@@ -44,6 +44,18 @@
 ### Cons:
 -Minimal energy is actually stored, but this is acceptable as it still accomplishes the task of preparing food
 
+### Sodium Acetate
+![heat-pack-sequence](https://user-images.githubusercontent.com/90800298/135787198-5d3a8322-7de9-4d73-8c97-8aadf041d18a.jpeg)
+
+### Pros:
+-Low temperatures required, safer than other compounds on the list
+-Long term energy storage
+-Sufficient for slow cooking
+
+### Cons
+-Low temperature can be extracted, insufficient to boil water, only reaches 58 degrees
+
+
 
 
 # Inspiration and Information:
