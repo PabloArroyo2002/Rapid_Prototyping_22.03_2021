@@ -16,6 +16,8 @@
 
 
 ### Quicklime:
+![quicklime](https://user-images.githubusercontent.com/90800298/135785145-0bff392d-5d10-474c-bd8c-1fbf081204b2.jpeg)
+
 
 ### Pros: 
 -Energy can be stored almost indefinitely and then released as heat through the addition of water, creating calcium hydroxide
@@ -29,7 +31,17 @@
 -Can be an irritant (as seen on the image) and therefore would have to remain isolated from the food in a solid container.
 -Needs to be heated to approximately 400 Celsius.
 
+### Drying Foods
+info found [***here***] (https://hgic.clemson.edu/factsheet/drying-foods/)
 
+
+### Pros:
+-Time proven and easy to execute
+-Requires low temperatures, reducing risk of fires and demand for solar intensity
+-Long lifespan of foods, with an upper limit of a year
+
+### Cons:
+-Minimal energy is actually stored, but this is acceptable as it still accomplishes the task of preparing food
 
 
 ### Current Brainstorm Ideas
