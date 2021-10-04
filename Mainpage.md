@@ -15,7 +15,7 @@ Buckets that use PCM's and are heated with a circular heating mirror. They have 
 A solar collection system centered around a parabolic heliostat, a satellite-dish shaped mirror that follows the sun's movement, driven by clockwork to ensure alignment with the sun. Perhaps upgrading the mechanical sun tracking to an electronic system would be a worthy improvement as it would not require an operator to adjust it as the sun's path through the sky changes. The system has been used both for cooking and steam generation, which may be useful if we want a closed circuit system that relies on no external power.
 
 ### Phase Change Materials 
-Mostly hydrous salts, here I look further into the two most readily available options, quicklime and sodium acetate, although other options can be found [***here***](https://www.sciencedirect.com/topics/engineering/salt-hydrate) and may help cover the temperature gap between the two substances explored in further depth.
+Mostly hydrous salts and possibly wax. I looked further into the two most readily available options, quicklime and sodium acetate, although other options can be found [***here***](https://www.sciencedirect.com/topics/engineering/salt-hydrate) and may help cover the temperature gap between the two substances explored in further depth. Salts undergoing hydration are preferrable to salts that merely release a large amount of energy upon melting as they can retain energy for much longer and the rate of energy release can be more easily controlled.
 
 ## Heat Storage Materials
 
