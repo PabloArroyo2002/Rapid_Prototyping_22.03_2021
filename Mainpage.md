@@ -32,8 +32,9 @@
 -Needs to be heated to approximately 400 Celsius.
 
 ### Drying Foods
-info found [***here***] (https://hgic.clemson.edu/factsheet/drying-foods/)
 
+
+![iStock-621139208-1920x1282](https://user-images.githubusercontent.com/90800298/135785776-8036a9e3-a6e1-4b92-a7e2-f065d9574dda.jpeg)
 
 ### Pros:
 -Time proven and easy to execute
@@ -42,3 +43,10 @@ info found [***here***] (https://hgic.clemson.edu/factsheet/drying-foods/)
 
 ### Cons:
 -Minimal energy is actually stored, but this is acceptable as it still accomplishes the task of preparing food
+
+
+
+# Inspiration and Information:
+Dry Foods:[***here***](https://hgic.clemson.edu/factsheet/drying-foods/)
+General Solar Cooking Knowledge + Quicklime: [***here***](https://solarcooking.fandom.com/wiki/Heat_storage#Types_of_heat_storage)
+
