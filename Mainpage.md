@@ -1,6 +1,22 @@
-### Pablo Design Portfolio
+### Pablo Design Portfolio Solar Cooker
+
+Link to main portfolio found [***here***](https://pabloarroyo2002.github.io/Rapid-Prototyping_22.03/)
 
 # Oct 3rd Updates
+
+## Precedents
+
+### Sun buckets
+Buckets that use PCM's and are heated with a circular heating mirror. They have been implemented around the world; however they only reach temperatures of around 118 celsius, which can boil water but may struggle for more intense cooking. Their PCM's seem to be able to hold a lot of heat but since they rely on the energy released during the freezing of the internal substance, rather than a controllable chemical change.
+
+### Scheffler Community Kitchen
+![Jamhuriat_Girls_School_Kabul_Scheffler_array jpg](https://user-images.githubusercontent.com/90800298/135788378-d0396105-ee9b-4113-83a2-f766e9d11adb.jpg)
+
+A solar collection system centered around a parabolic heliostat, a satellite-dish shaped mirror that follows the sun's movement, driven by clockwork to ensure alignment with the sun. Perhaps upgrading the mechanical sun tracking to an electronic system would be a worthy improvement as it would not require an operator to adjust it as the sun's path through the sky changes. The system has been used both for cooking and steam generation, which may be useful if we want a closed circuit system that relies on no external power.
+
+### Phase Change Materials 
+Mostly hydrous salts, here I look further into the two most readily available options, quicklime and sodium acetate, although other options can be found [***here***](https://www.sciencedirect.com/topics/engineering/salt-hydrate) and may help cover the temperature gap between the two substances explored in further depth.
+
 ## Heat Storage Materials
 
 ### Citric Acid:
@@ -61,4 +77,5 @@
 # Inspiration and Information:
 Dry Foods:[***here***](https://hgic.clemson.edu/factsheet/drying-foods/)
 General Solar Cooking Knowledge + Quicklime: [***here***](https://solarcooking.fandom.com/wiki/Heat_storage#Types_of_heat_storage)
+Scheffler Community Kitchens:[***here***](https://solarcooking.fandom.com/wiki/Scheffler_Community_Kitchen)
 
